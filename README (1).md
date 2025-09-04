@@ -33,7 +33,7 @@ El objetivo principal ha sido ver los factores que han influido en el resultado 
 ## 📑 Informe del análisis
 Puedes consultar el **informe completo con hallazgos y conclusiones** en:  
 
-📄 [`reports/Informe_EDA_Bank_Marketing.docx`](reports/Informe_EDA_Bank_Marketing.docx)  
+📄 [`[Documentos/Informe_EDA_Bank_Marketing.docx]`](Documentos/Informe_EDA_Bank_Marketing.docx)  
 
 ---
 
