@@ -14,10 +14,8 @@ El objetivo principal ha sido ver los factores que han influido en el resultado 
    - Archivos unificados y limpieza:
       - `clean&merge_data.ipynb`
       - `charts.ipynb`
-
 - PDF con enunciado: 
    - `DetaProyect_EDA con Python.pdf`
-
 - README.md:
    - Explicación del proyecto y Analisis con los hallazgos y conclusiones
 
