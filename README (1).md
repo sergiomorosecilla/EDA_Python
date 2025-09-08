@@ -16,6 +16,7 @@ El objetivo principal ha sido ver los factores que han influido en el resultado 
       - `charts.ipynb`
 - PDF con enunciado: 
    - `DetaProyect_EDA con Python.pdf`
+   - `Informe_EDA_Bank_Marketing.docx`
 - README.md:
    - Explicación del proyecto y Analisis con los hallazgos y conclusiones
 
