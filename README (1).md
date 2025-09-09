@@ -14,10 +14,9 @@ El objetivo principal ha sido ver los factores que han influido en el resultado 
    - Archivos unificados y limpieza:
       - `clean&merge_data.ipynb`
       - `charts.ipynb`
-
 - PDF con enunciado: 
    - `DetaProyect_EDA con Python.pdf`
-
+   - `Informe_EDA_Bank_Marketing.docx`
 - README.md:
    - Explicación del proyecto y Analisis con los hallazgos y conclusiones
 
@@ -35,7 +34,7 @@ El objetivo principal ha sido ver los factores que han influido en el resultado 
 ## 📑 Informe del análisis
 Puedes consultar el **informe completo con hallazgos y conclusiones** en:  
 
-📄 [`reports/Informe_EDA_Bank_Marketing.docx`](reports/Informe_EDA_Bank_Marketing.docx)  
+📄 [`[Documentos/Informe_EDA_Bank_Marketing.docx]`](Documentos/Informe_EDA_Bank_Marketing.docx)  
 
 ---
 
