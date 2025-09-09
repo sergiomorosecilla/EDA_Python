@@ -48,9 +48,8 @@ Puedes consultar el **informe completo con hallazgos y conclusiones** en:
 ---
 
 ## ✅ Principales hallazgos (resumen)
-- El **perfil más propenso a suscribir depósitos** corresponde a clientes de edad media (30–50 años), con estudios universitarios, ingresos estables y sin préstamos previos.  
-- La **duración de la llamada** es un factor crítico en la probabilidad de éxito.  
-- El **exceso de contactos previos** puede reducir la efectividad de la campaña.  
-- Variables macroeconómicas como `euribor3m` y `emp.var.rate` están relacionadas con los resultados.  
+- El **perfil más propenso a suscribir depósitos** corresponde a clientes de edad media (25–55 años), con estudios universitarios, ingresos estables y sin préstamos previos.  
+- La **duración de la llamada** es un factor crítico en la probabilidad de éxito.    
+- El segmento de edad **a partir de 60 años** tiene un porcentaje de éxito muy alto, por lo que no hay que obviarlo
 
 ---
